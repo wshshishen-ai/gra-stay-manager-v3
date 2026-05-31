@@ -1,6 +1,12 @@
-# GRA Stay Manager V3
+# GRA Stay Manager V4
 
 Mobile Airbnb / Booking room management system.
+
+## V4 Updates
+
+- Edit existing bookings from room cards and finance booking records.
+- Bottom navigation order: Home, Rooms, Add, Reports, Cleaning, Repairs, Finance, Users.
+- Smaller mobile header for better screen space.
 
 ## Features
 

@@ -1,0 +1,14 @@
+{
+  "name": "gra-stay-manager-v6-fixed",
+  "version": "6.1.0",
+  "private": true,
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.107.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.5"
+  }
+}

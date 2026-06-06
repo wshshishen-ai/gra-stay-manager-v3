@@ -1,0 +1,17 @@
+{
+  "installCommand": "npm ci",
+  "buildCommand": "node build.js",
+  "outputDirectory": "dist",
+  "framework": null,
+  "headers": [
+    {
+      "source": "/(app.js|style.css)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
+      ]
+    }
+  ]
+}

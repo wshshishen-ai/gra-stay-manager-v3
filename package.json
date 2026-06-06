@@ -1,0 +1,8 @@
+{
+  "name": "gra-stay-manager-v6-fixed",
+  "version": "6.0.1",
+  "private": true,
+  "scripts": {
+    "build": "node build.js"
+  }
+}
